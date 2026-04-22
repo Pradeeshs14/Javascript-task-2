@@ -54,6 +54,8 @@
 // =======================Task 3: Grade System=========================
 
 
+// console.log("=======task3=========");
+
 // let students = [ {id:1, name:"Naveen", mark:85, course:"MERN"},
 //     {id:2, name:"John", mark:45, course:"Python"},
 //     {id:3, name:"Priya", mark:72, course:"Java"},
@@ -87,6 +89,9 @@
 
 // =======================Task 4: Topper Student=========================
 
+
+// console.log("================task4================");
+
 // let students = [
 //  {id:1, name:"Naveen", mark:85, course:"MERN"},
 //  {id:2, name:"John", mark:45, course:"Python"},
@@ -111,6 +116,9 @@
 
 //================Task 5: Course Search======================
 
+// console.log("===========task5==========");
+
+
 // let students = [
 //  {id:1, name:"Naveen", mark:85, course:"MERN"},
 //  {id:2, name:"John", mark:45, course:"Python"},
@@ -133,6 +141,9 @@
 // name:"Arun"
 
 //=================Task 6: Add New Student======================
+
+
+// console.log('=================task6==================');
 
 // let students = [
 //  {id:1, name:"Naveen", mark:85, course:"MERN"},
@@ -179,37 +190,43 @@
 
 //=================Task 7: Attendance System============
 
-let status = "present";
 
-switch(status){
+// console.log("==============task7===========");
 
-case "present":
-console.log("Welcome");
-break;
+// let status = "present";
 
-case "absent":
-console.log("Mark Absent");
-break;
+// switch(status){
 
-case "leave":
-console.log("Approved Leave");
-break;
+// case "present":
+// console.log("Welcome");
+// break;
 
-default:
-console.log("Invalid Status");
+// case "absent":
+// console.log("Mark Absent");
+// break;
 
-}
+// case "leave":
+// console.log("Approved Leave");
+// break;
+
+// default:
+// console.log("Invalid Status");
+
+// }
 
 
 //================= Task 8: Login System===================
 
-let username = "admin";
-let password = "1234";
 
-if(username == "admin" && password == "1234"){
-console.log("Login Success");
-}
+// console.log("========task8===========");
 
-else{
-console.log("Invalid User");
-}
+// let username = "admin";
+// let password = "1234";
+
+// if(username == "admin" && password == "1234"){
+// console.log("Login Success");
+// }
+
+// else{
+// console.log("Invalid User");
+// }
